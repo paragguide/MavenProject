@@ -1,0 +1,10 @@
+26/05/2020 15:01:25 devpinoyLogger BaseURL added http://api.openweathermap.org
+26/05/2020 15:01:25 devpinoyLogger Request Object created
+26/05/2020 15:01:25 devpinoyLogger test method called Delhi , 816533ee45cfd92b705866a58cab8556
+26/05/2020 15:02:12 devpinoyLogger API Pass for City Delhi
+26/05/2020 15:02:12 devpinoyLogger test method called London , 816533ee45cfd92b705866a58cab8556
+26/05/2020 15:02:14 devpinoyLogger API Pass for City London
+26/05/2020 15:02:14 devpinoyLogger test method called Lucknow , 816533ee45cfd92b705866a58cab8556
+26/05/2020 15:02:15 devpinoyLogger API Pass for City Lucknow
+26/05/2020 15:02:16 devpinoyLogger test method called Punjab , 816533ee45cfd92b705866a58cab8556
+26/05/2020 15:02:49 devpinoyLogger API Pass for City Punjab

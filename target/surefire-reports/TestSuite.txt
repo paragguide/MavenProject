@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 2, Errors: 0, Skipped: 14, Time elapsed: 2.234 s <<< FAILURE! - in TestSuite
+testcases.LoginTestSeeker.beforeTest  Time elapsed: 1.058 s  <<< FAILURE!
+java.lang.NoClassDefFoundError: com/relevantcodes/extentreports/ExtentReports
+Caused by: java.lang.ClassNotFoundException: com.relevantcodes.extentreports.ExtentReports
+
+testcases.LoginTestProvider.beforeTest  Time elapsed: 2.025 s  <<< FAILURE!
+java.lang.NoClassDefFoundError: com/relevantcodes/extentreports/ExtentReports
+
